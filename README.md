@@ -12,8 +12,8 @@ This project is a simple Java - spring boot application for calculating discount
 
 
 ## UML Digram
+<img width="536" alt="image" src="https://github.com/MeghaGatty/DailyNeeds/assets/159155862/d90e3e15-6934-4ec6-9f78-f23956de8422">
 
-- 
 
 ## Requirements
 
